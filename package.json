@@ -1,29 +1,14 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "Application for taking notes",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "node server",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/garrettwgriffey/Note-Taker.git"
-  },
-  "keywords": [
-    "note",
-    "taker"
-  ],
-  "author": "Garrett Wells Griffey",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/garrettwgriffey/Note-Taker/issues"
-  },
-  "homepage": "https://github.com/garrettwgriffey/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "http": "0.0.1-security",
-    "path": "^0.12.7"
+    "express": "^4.16.4"
   }
 }
