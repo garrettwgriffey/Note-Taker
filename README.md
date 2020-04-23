@@ -34,7 +34,7 @@ Garrett Wells Griffey
 #### * Email: [garrettwgriffey@gmail.com](garrettwgriffey@gmail.com)
 #### * LinkedIn: https://www.linkedin.com/in/garrettwgriffey
 
-<img src="assets/gif/noteTaker.gif">
+<img src="public/assets/gif/noteTaker.gif">
 
 ## 
 
